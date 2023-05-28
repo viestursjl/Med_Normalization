@@ -1,0 +1,515 @@
+﻿,vārds,atribūts 2_x,lemma,type
+0,EUR,eiro,eiro,1
+1,EKG,elektrokardiogramma,elektrokardiogramma,
+2,Er,eritrocīti,eritrocīts,
+3,RTG,rentgens,rentgens,
+4,tab.,tablete,tablete,1
+5,Hb,hemoglobīns,hemoglobīns,
+6,neg.,negatīvs,negatīvs,1
+7,ALAT,alanīnaminotransferāze,alanīnaminotransferāze,
+8,st.,stunda,stunda,1
+9,plkst.,pulkstens,pulkstens,1
+10,sol.,šķīdums,šķīdums,1
+11,ASAT,aspartātaminotransferāze,aspartātaminotransferāze,
+12,Bil,bilirubīns,bilirubīns,
+13,Eo,eozinofīli,eozinofīls,
+14,Mo,monocīti,monocīts,
+15,Tr,trombocīti,trombocīti,
+16,Ery,eritrocīti,eritrocīts,
+17,Leu,leikocīti,leikocīti,
+18,USG,ultrasonogrāfija,ultrasonogrāfija,
+19,tālr.,tālrunis,tālrunis,1
+20,MTS,metastāzes,metastāze,
+21,Na,nātrijs,nātrijs,
+22,kreat.,kreatinīns,kreatinīns,1
+23,Hct,hematokrīts,hematokrīts,
+24,mēn.,mēnesis,mēnesis,1
+25,pac.,pacients,pacients,1
+26,DT,datortomogrāfija,datortomogrāfija,
+27,TB,tuberkuloze,tuberkuloze,
+28,PLT,trombocīti,trombocīts,
+29,AV,antivielas,antiviela,
+30,US,ultrasonogrāfija,ultrasonogrāfija,
+31,DNS,dezoksiribonukleīnskābe,dezoksiribonukleīnskābe,
+32,glob.,globulīns,globulīns,1
+33,µmol,mikromoli,mikromols,
+34,Thr,trombocīti,trombocīts,
+35,LV,Latvija,Latvija,
+36,dxtr.,labā,labais,1
+37,nod.,nodaļa,nodaļa,1
+38,g.,gads,gads,1
+39,HGB,hemoglobīns,hemoglobīns,
+40,RBC,eritrocīti,eritrocīts,
+41,h,stundā,stunda,
+42,WBC,leikocīti,leikocīti,
+43,protr.,protrombīns,protrombīns,1
+44,bilirub.,bilirubīns,bilirubīns,1
+45,fibrinog.,fibrinogēns,fibrinogēns,1
+46,milj.,miljons,miljons,1
+47,Ø,diametrā,diametrs,1
+48,protromb.,protrombīns,protrombīns,1
+49,sk.,skaits,skaits,1
+50,epit.,epitēlijs,epitēlijs,1
+51,tabl.,tablete,tablete,1
+52,NEUT,neitrofīli,neitrofīls,
+53,RNS,ribonukleīnskābe,ribonukleīnskābe,
+54,ned.,nedēļa,nedēļa,1
+55,LDH,laktātdehidrogenāze,laktātdehidrogenāze,
+56,LYMPH,limfocīti,limfocīts,
+57,FGS,fibrogastroskopija,fibrogastroskopija,
+58,EKS,elektrokardiostimulators,elektrokardiostimulators,
+59,Gy,grejs,grejs,
+60,urobil.,urobilinogēns,urobilinogēns,
+61,cien.,cienījamais,cienījams,1
+62,olbal.,olbaltumvielas,olbaltumviela,1
+63,htc,hematokrīts,hematokrīts,
+64,μmol,mikromoli,mikromols,
+65,Ret,retikulocīti,retikulocīts,
+66,mkg,mikrogrami,mikrograms,
+67,µg,mikrogrami,mikrograms,
+68,triglic.,triglicerīdi,triglicerīds,1
+69,Fe,dzelzs,dzelzs,
+70,ģim.,ģimenes,ģimene,1
+71,Lym,limfocīti,limfocīts,
+72,metamiel.,metamielocīti,metamielocīts,1
+73,Mon,monocīti,monocīts,
+74,mieloc.,mielocīti,mielocīts,1
+75,konsist.,konsistence,konsistence,1
+76,Lei,leikocīti,leikocīts,
+77,EHO,ehokardiogrāfija,ehokardiogrāfija,
+78,FKS,fibrokolonoskopija,fibrokolonoskopija,
+79,Ao,aorta,aorta,
+80,transglut.,transglutamināze,transglutamināze,1
+81,Phosphol,fosfolipīdi,fosfolipīds,
+82,kab.,kabinets,kabinets,1
+83,TPO,tireoperoksidāze,tireoperoksidāze,
+84,EKGa,elektrokardiogramma,elektrokardiogramma,
+85,umol,mikromoli,mikromols,
+86,pozit.,pozitīvs,pozitīvs,1
+87,pulv.,pulveris,pulveris,1
+88,Tº,temperatūra,temperatūra,
+89,DHC,dihidrokodeīns,dihidrokodeīns,
+90,CMV,citomegalovīruss,citomegalovīruss,
+91,kvant.,kvantitatīvs,kvantitatīvs,1
+92,Ung,ziede,ziede,
+93,leik.,leikocīti,leikocīti,1
+94,ADP,adenozīndifosfāts,adenozīndifosfāts,
+95,vīr.,vīrietis,vīrietis,1
+96,Li,litijs,litijs,
+97,FBS,fibrobronhoskopija,fibrobronhoskopija,
+98,frekv.,frekvence,frekvence,1
+99,α,alfa,alfa,
+100,nereg.,nereģistrēts,nereģistrēts,1
+101,pmol,pikomols,pikomols,
+102,eoz,eozinofīli,eozinofīls,
+103,Syndr,sindroms,sindroms,
+104,šķ.,šķīdums,šķīdums,1
+105,PostTB,Pēctuberkulozes,pēctuberkuloze,
+106,mikroorg.,mikroorganisms,mikroorganisms,1
+107,mcg,mikrograms,mikrograms,
+108,amp.,ampula,ampula,1
+109,DPD,deoksipiridinolīns,deoksipiridinolīns,
+110,PTH,parathormons,parathormons,
+111,ᴓ,diametrs,diametrs,
+112,hron.,hronisks,hronisks,1
+113,leikoc.,leikocīti,leikocīti,1
+114,tuberk.,tuberkuloze,tuberkuloze,1
+115,smērv.,smērviela,smērviela,1
+116,burgd.,burgdorferi,burgdorfers,1
+117,sabiez.,sabiezējums,sabiezējums,1
+118,mannit.,mannitols,mannitols,1
+119,nmol,nanomoli,nanomols,
+120,KMP,kardiomiopātija,kardiomiopātija,
+121,dnn,diennakti,diennakts,
+122,TMP,trimetoprims,trimetoprims,
+123,SMX,sulfametoksazols,sulfametoksazols,
+124,trop.,troponīns,troponīns,1
+125,mkv,mikrovolts,mikrovolts,
+126,šķīd.,šķīdums,šķīdums,1
+127,reakt.,reaktīvs,reaktīvs,1
+128,FCS,fibrokolonoskopija,fibrokolonoskopija,
+129,reakc.,reakcija,reakcija,1
+130,kamb.,kambaris,kambaris,1
+131,duļķ.,duļķains,duļķains,1
+132,noņemš.,noņemšana,noņemšana,1
+133,neizmain.,neizmainīts,neizmainīts,1
+134,eritroc.,eritrocīti,eritrocīts,1
+135,bilir.,bilirubīns,bilirubīns,1
+136,po,perorāli,perorāls,
+137,patol.,patoloģija,patoloģija,1
+138,hospital.,hospitalizācija,hospitalizācija,1
+139,urīnsk.,urīnskābe,urīnskābe,1
+140,URS,ureterorenoskopija,ureterorenoskopija,
+141,aritm.,aritmija,aritmija,1
+142,Staph,stafilokoks,stafilokoks,
+143,anamn.,anamnēze,anamnēze,1
+144,BD,bronhodilatācija,bronhodilatācija,
+145,eritr.,eritrocīti,eritrocīts,1
+146,projekc.,projekcija,projekcija,1
+147,tilp.,tilpums,tilpums,1
+148,pulkst.,pulkstenis,pulkstenis,1
+149,bioķ.,bioķīmija,bioķīmija,1
+150,FGSK,fibrogastroskopija,fibrogastroskopija,
+151,dB,decibels,decibels,
+152,regurg.,regurgitācija,regurgitācija,1
+153,urīnskāb.,urīnskābe,urīnskābe,1
+154,μl,mikrolitrs,mikrolitrs,
+155,EMG,elektromiogrāfija,elektromiogrāfija,
+156,koagulogr.,koagulogramma,koagulogramma,1
+157,γ,gamma,gamma,
+158,mU,mikrovienības,mikrovienība,
+159,Hormonth,hormonterapija,hormonterapija,
+160,Ķīmijth,ķīmijterapija,ķīmijterapija,
+161,homog.,homogēns,homogēns,1
+162,TUB,tuberkuloze,tuberkuloze,
+163,nosūtīj.,nosūtījums,nosūtījums,1
+164,līn.,līnija,līnija,1
+165,Ferrit,ferritīns,ferritīns,
+166,difdg.,diferenciāldiagnoze,diferenciāldiagnoze,
+167,trešd.,trešdiena,trešdiena,1
+168,ambulat.,ambulators,ambulators,1
+169,dok.,dokuments,dokuments,1
+170,nepiecie.,nepieciešams,nepieciešams,1
+171,caurjaukt.,caurjauktas,caurjaukts,1
+172,ketonv.,ketonvielas,ketonviela,1
+173,DXA,osteodensitometrija,osteodensitometrija,
+174,vertebr.,vertebrologs,vertebrologs,1
+175,koncentrāc.,koncentrācija,koncentrācija,1
+176,apsl.,apslēpts,apslēpts,1
+177,bakteriosk.,bakterioskopija,bakterioskopija,1
+178,pieņemš.,pieņemšana,pieņemšana,1
+179,µkmol,mikromols,mikromols,
+180,bilat.,bilaterāls,bilaterāls,1
+181,EKV,elektrokardioversija,elektrokardioversija,
+182,kontrastv.,kontrastviela,kontrastviela,1
+183,iztr.,iztriepe,iztriepe,1
+184,hemodiafiltr.,hemodiafiltrācija,hemodiafiltrācija,1
+185,elpoš.,elpošana,elpošana,1
+186,nanog,nanograms,nanograms,
+187,hormonterap.,hormonterapija,hormonterapija,1
+188,antibakt.,antibakteriāls,antibakteriāls,1
+189,stad.,stadija,stadija,1
+190,bulv.,bulvāris,bulvāris,1
+191,koef.,koeficients,koeficients,1
+192,metamieloc.,Metamielocīti,metamielocīts,1
+193,Posttbc,posttuberkulozes,posttuberkuloze,
+194,µV,mikrovolti,mikrovolts,
+195,angiogr.,angiogrāfija,angiogrāfija,1
+196,bilrub.,bilirubīns,bilirubīns,1
+197,ISMN,izosorbīda-5-mononitrāts,izosorbīda-5-mononitrāts,
+198,skriem.,skriemelis,skriemelis,1
+199,manip.,manipulācija,manipulācija,1
+200,janv.,janvāris,janvāris,1
+201,transf.,transfūzija,transfūzija,1
+202,atb.,atbilde,atbilde,1
+203,taukskāb.,taukskābes,taukskābe,1
+204,dec.,decembris,decembris,1
+205,º,grādi,grāds,
+206,urobilinog.,urobilinogēns,urobilinogēns,1
+207,KW,kilovati,kilovats,
+208,chth,ķīmijterapija,ķīmijterapija,
+209,adenovīr.,adenovīruss,adenovīruss,1
+210,AZT,azidotimidīns,azidotimidīns,
+211,transfūz.,transfūzija,transfūzija,1
+212,tauksk.,taukskābe,taukskābe,1
+213,granuloc.,granulocīti,granulocīts,1
+214,pēcop.,pēcoperācija,pēcoperācija,1
+215,COHb,karboksihemoglobīns,karboksihemoglobīns,
+216,OBV,olbaltumvielas,olbaltumviela,
+217,HRS,histerorezektoskopija,histerorezektoskopija,
+218,okt.,oktobris,oktobris,1
+219,pašnod.,pašnodarbināts,pašnodarbināt,1
+220,blakusdob.,blakusdobums,blakusdobums,1
+221,Lidoc,lidokaīns,lidokaīns,
+222,stent.,stentēšana,stentēšana,1
+223,febr.,februāris,februāris,1
+224,svešķ.,svešķermenis,svešķermenis,1
+225,ketonviel.,Ketonvielas,ketonviela,1
+226,EGD,Ezofagogastroduodenoskopija,Ezofagogastroduodenoskopija,
+227,limfm.,limfmezgls,limfmezgls,1
+228,osmol.,osmolaritāte,osmolaritāte,1
+229,neatl.,neatliekama,neatliekams,1
+230,kvantitat.,kvantitatīvs,kvantitatīvs,1
+231,atsev.,atsevišķs,atsevišķs,1
+232,mCi,milikirī,milikirī,
+233,Lux,lukss,lukss,
+234,natr.,nātrijs,nātrijs,1
+235,testēš.,testēšana,testēšana,1
+236,mikrofl.,mikroflora,mikroflora,1
+237,Cu,varš,varš,
+238,µm,mikrometrs,mikrometrs,
+239,urīnv.,urīnviela,urīnviela,1
+240,dnkt,diennakts,diennakts,
+241,plākst.,plāksteris,plāksteris,1
+242,putrv.,putrveida,putrveida,1
+243,PTFE,politetrafluoretilēns,politetrafluoretilēns,
+244,blokat.,blokators,blokators,1
+245,anizoc.,anizocitoze,anizocitoze,1
+246,mikrog.,mikrograms,mikrograms,1
+247,THC,tetrahidrokanabinols,tetrahidrokanabinols,
+248,šķērsizm.,šķērsizmērs,šķērsizmērs,1
+249,fmol,femtomols,femtomols,
+250,eozin.,eozinofīli,eozinofīls,1
+251,DopplerEhoKG,doplerehokardiogrāfija,doplerehokardiogrāfija,
+252,dezintoksik.,dezintoksikācija,dezintoksikācija,1
+253,bezdarbn.,bezdarbnieks,bezdarbnieks,1
+254,hemoglob.,hemoglobīns,hemoglobīns,1
+255,jūn.,jūnijs,jūnijs,1
+256,paasin.,paasinājums,paasinājums,1
+257,olbv,olbaltumvielas,olbaltumviela,
+258,pirmd.,pirmdiena,pirmdiena,1
+259,piektd.,piektdiena,piektdiena,1
+260,tējk.,tējkarote,tējkarote,1
+261,tinkt.,tinktūra,tinktūra,1
+262,mikroglob.,mikroglobulīns,mikroglobulīns,1
+263,θ,tēta,tēta,
+264,Cox,ciklooksigenāze,ciklooksigenāze,
+265,vairogdz.,vairogdziedzeris,vairogdziedzeris,1
+266,MTX,metotreksāts,metotreksāts,
+267,telef.,telefons,telefons,1
+268,polikl.,poliklīnika,poliklīnika,1
+269,mIBG,matajodobenzilguadīns,matajodobenzilguadīns,
+270,CBD,kanabidiols,kanabidiols,
+271,nevienm.,nevienmērīgs,nevienmērīgs,1
+272,saņēm.,saņēmējs,saņēmējs,1
+273,menop.,menopauze,menopauze,1
+274,nester.,nesterils,nesterils,1
+275,flak.,flakons,flakons,1
+276,ARV,antiretrovirāla,antiretrovirāls,
+277,novēroš.,novērošana,novērošana,1
+278,mugurk.,mugurkauls,mugurkauls,1
+279,antieritroc.,antieritrocitārās,antieritrocitārs,1
+280,kontaktpers.,kontaktpersona,kontaktpersona,1
+281,seropoz.,seropozitīvs,seropozitīvs,1
+282,jūl.,jūlijs,jūlijs,1
+283,feb.,februāris,februāris,1
+284,doplerogr.,doplerogrāfija,doplerogrāfija,1
+285,biop.,biopsija,biopsija,1
+286,vairogdziedz.,vairogdziedzeris,vairogdziedzeris,1
+287,hematoloģ.,hematoloģija,hematoloģija,1
+288,rntg,rentgens,rentgens,
+289,EhoEKG,ehokardiogrāfija,ehokardiogrāfija,
+290,saslimš.,saslimšana,saslimšana,1
+291,etiol.,etioloģija,etioloģija,1
+292,hematokr.,hematokrīts,hematokrīts,1
+293,injekc.,injekcija,injekcija,1
+294,prokalc.,prokalctonīns,prokalctonīns,1
+295,jan.,janvāris,janvāris,1
+296,scintigr.,scintigrāfija,scintigrāfija,1
+297,pazem.,pazemināts,pazemināt,1
+298,bezterm.,beztermiņa,beztermiņa,1
+299,Corynebact,Corynebacterium,Corynebacterium,
+300,ēdamk.,ēdamkarote,ēdamkarote,1
+301,IHĶ,imūnhistoķīmija,imūnhistoķīmija,
+302,µvien,mikrovienība,mikrovienība,
+303,Urea,urīnviela,urīnviela,
+304,sin.,kreisā,kreiss,
+305,abs.,absolūti,absolūts,1
+306,lb.,labais,labais,1
+307,Ht,hematokrīts,hematokrīts,
+308,dx,labā,labais,
+309,sg.,segments,segments,1
+310,Rtggr,rentgenogramma,rentgenogramma,
+311,reģ.,reģistrācijas,reģistrācija,1
+312,tk.,tūkstoši,tūkstotis,1
+313,prof.,profesors,profesors,1
+314,vid.,vidējais,vidējs,1
+315,max.,maksimālais,maksimāls,
+316,tromb.,trombocīti,trombocīts,1
+317,apm.,apmēram,apmēram,1
+318,īpatn.,īpatnējais,īpatnējs,1
+319,limf.,limfocīti,limfocīts,1
+320,proj.,projekcija,projekcija,1
+321,pigm.,pigments,pigments,1
+322,svītroj.,svītrojums,svītrojums,1
+323,MONO,monocīti,monocīts,
+324,LOR,otorinolaringologs,otorinolaringologs,
+325,LP,lumbālpunktāts,lumbālpunktāts,
+326,poz.,pozitīvs,pozitīvs,1
+327,neizm.,neizmainīts,neizmainīts,1
+328,īpat.,īpatnējs,īpatnējs,1
+329,op.,operācija,operācija,1
+330,Eosin,eozinofīlie,eozinofīls,
+331,fL,femtolitrs,femtolitrs,
+332,sag.,sagitāli,sagitāls,1
+333,KET,ketoni,ketons,
+334,GLU,glikoze,glikoze,
+335,Eos,eozinofīli,eozinofīls,
+336,UBG,urobilinogēns,urobilinogēns,
+337,PCT,trombocitokrīts,trombocitokrīts,
+338,mkmmol,mikromoli,mikromols,
+339,obj.,objektīvi,objektīvs,1
+340,RF,radiofrekvence,radiofrekvence,
+341,Hr,hronisks,hronisks,
+342,urobilin.,urobilinogēns,urobilinogēns,1
+343,glik.,glikoze,glikoze,1
+344,Gel,gēls,gēls,
+345,periumb.,periumbilikāli,periumbilikāls,1
+346,IF,imūnfluorescence,imūnfluorescence,
+347,dn,diennakts,diennakts,
+348,Jxn,savienojums,savienojums,
+349,atm.,atmosfēra,atmosfēra,1
+350,DDg,diferenciāldiagnoze,diferenciāldiagnoze,
+351,piem.,piemēram,piemērs,1
+352,siev.,sieviete,sieviete,1
+353,olbalt.,olbaltums,olbaltums,1
+354,konc.,koncentrācija,koncentrācija,1
+355,Oel,eļļa,eļļa,
+356,sept.,septembris,septembris,1
+357,WB,Vesternblots,Vesternblots,
+358,FGDS,fibrogastroduodenoskopija,fibrogastroduodenoskopija,
+359,dex,labā,labais,
+360,Ig,imunoglobulīns,imunoglobulīns,
+361,GI,gastrointestināls,gastrointestināls,
+362,prox,proksimāli,proksimāls,
+363,LFK,lāzerfotokoagulācija,lāzerfotokoagulācija,
+364,HD,hemodialīze,hemodialīze,
+365,FGDSK,fibrogastroduodenoskopija,fibrogastroduodenoskopija,
+366,dist.,distāls,distāls,1
+367,ORL,otorinolaringoloģija,otorinolaringoloģija,
+368,mcl,mikrolitri,mikrolitrs,
+369,FDS,fibroduodenoskopija,fibroduodenoskopija,
+370,FGSc,fibrogastroskopija,fibrogastroskopija,
+371,SMS,īsziņa,īsziņa,
+372,Grav,Grūtniecība,grūtniecība,
+373,MTF,metatarsofalangeāls,metatarsofalangeāls,
+374,FURS,fibroureteroskopija,fibroureteroskopija,
+375,BronchoCa,bronhokarcinoma,bronhokarcinoma,
+376,Lymf,limfocīti,limfocīts,
+377,HPB,hepatobiliāra,hepatobiliārs,
+378,EchoKG,ehokardiogrāfija,ehokardiogrāfija,
+379,µkg,mikrokilogrami,mikrokilograms,
+380,EFGDS,ezofagogastroduodenoskopija,ezofagogastroduodenoskopija,
+381,mckg,mikrokilogrami,mikrokilograms,
+382,AMACR,Alfa-metilacil-Ko-racemāze,Alfa-metilacil-Ko-racemāze,
+383,pašnodarb.,pašnodarbināts,pašnodarbināt,1
+384,ALT,alanīntransamināze,alanīntransamināze,
+385,dgn,diagnoze,diagnoze,
+386,sindr.,sindroms,sindroms,1
+387,gb.,gabals,gabals,1
+388,makrof.,makrofāgs,makrofāgs,1
+389,MTP,metatarsofalangeāls,metatarsofalangeāls,
+390,INFO,informācija,informācija,
+391,dekomp.,dekompensēts,dekompensēts,1
+392,seroloģ.,seroloģiski,seroloģisks,1
+393,skaloj.,skalojums,skalojums,1
+394,TDF,Tenofovir,Tenofovir,
+395,biops.,biopsija,biopsija,1
+396,tml.,tamlīdzīgi,tamlīdzīgi,1
+397,urinsk.,urīnskābe,urīnskābe,1
+398,ginekolog.,ginekologs,ginekologs,1
+399,vdz.,vairogdziedzeris,vairogdziedzeris,1
+400,Lfx,Levoflaksacīns,Levoflaksacīns,
+401,EFGDSK,ezofagogastroduodenoskopija,ezofagogastroduodenoskopija,
+402,CRO,C-reaktīvais olbaltums,C-reaktīvs olbaltums,2
+403,CRO,C reaktīvais olbaltums,C reaktīvs olbaltums,2
+404,MR,magnētiskā rezonanse,magnētisks rezonanse,2
+405,KZS,kompensējamo zāļu saraksts,kompensēt zāle saraksts,2
+406,KZS,kairinātās zarnas sindroms,kairināt zarnas sindroms,2
+407,MTB,tuberkulozes mikobaktērija,tuberkuloze mikobaktērija,2
+408,KSS,koronārā sirds slimība,koronārs sirds slimība,2
+409,INR,starptautiski pieņemts rādītājs,starptautisks pieņemts rādītājs,2
+410,INR,internacionālais normalizētais rādītājs,internacionāls normalizēts rādītājs,2
+411,GFR,glomerulu filtrācijas ātrums,glomeruls filtrācija ātrums,2
+412,RAKUS,Rīgas austrumu klīniskās universitātes slimnīca,Rīga austrumi klīnisks universitāte slimnīca,2
+413,APTL,aktivētā parciālā tromboplastīna laika,aktivēts parciāls tromboplastīns laiks,2
+414,IgA,imūnglobulīns A,imūnglobulīns A,2
+415,IgA,imunoglobulīns A,imunoglobulīns A,2
+416,IgG,imūnglobulīns G,imūnglobulīns G,2
+417,IgG,imunoglobulīns G,imunoglobulīns G,2
+418,IgM,imūnglobulīns M,imūnglobulīns M,2
+419,IgM,imunoglobulīns M,imunoglobulīns M,2
+420,Rh,rēzus,rēzs,2
+421,Rh,rēzus faktors,rēzs faktors,2
+422,ARB,acidorezistentas baktērijas,acidorezistents baktērija,2
+423,ARB,angiotenzīna receptoru blokators,angiotenzīns receptors blokators,2
+424,GGT,gamma - glutamiltransferāze,gamma - glutamiltransferāze,2
+425,GGT,gamma-glutamiltransferāze,gamma-glutamiltransferāze,2
+426,GGT,gamma glutamiltransferāze,gamma glutamiltransferāze,2
+427,MCV,vidējais eritrocītu tilpums,vidējs eritrocīts tilpums,2
+428,TPSK,Tuberkulozes un plaušu slimību klīnika,tuberkuloze un plauša slimība klīnika,2
+429,BSA,ķermeņa virsmas laukumu,ķermenis virsma laukums,2
+430,MCH,vidējais hemoglobīna saturs,vidējs hemoglobīns saturs,2
+431,CO,sirds minūtes tilpums,sirds minūte tilpums,2
+432,CO,oglekļa monoksīts,ogleklis monoksīts,2
+433,LOC,latvijas onkoloģijas centrs,Latvija onkoloģija centrs,2
+434,ABL,augstā blīvuma lipoproteīdi,augsts blīvums lipoproteīds,2
+435,KG,kardiogramma,kardiogramma,2
+436,LL,laterolaterālu,laterolaterāls,2
+437,ZBL,zema blīvuma lipoproteīni,zems blīvums lipoproteīns,2
+438,GFĀ,glomerulu filtrācijas ātrums,glomeruls filtrācija ātrums,2
+439,TSH,tireotropais hormons,tireotrops hormons,2
+440,NMPD,neatliekamās medicīniskās palīdzības dienests,neatliekams medicīnisks palīdzība dienests,2
+441,NMP,neatliekamās medicīniskās palīdzības,neatliekams medicīnisks palīdzība,2
+442,CRP,C reaktīvais proteīns,C reaktīvs proteīns,2
+443,CRP,C-reaktīvais proteīns,C-reaktīvs proteīns,2
+444,FT4,brīvais tiroksīns,brīvs tiroksīns,2
+445,RCA,labā koronārā artērija,labs koronārs artērija,2
+446,HIV,cilvēka imūndeficīta vīruss,cilvēks imūndeficīts vīruss,2
+447,KFK,kreatīnfosfokināze,kreatīnfosfokināze,2
+448,LIC,Latvijas infektoloģijas centrs,Latvija infektoloģija centrs,2
+449,TPSC,tuberkulozes un plaušu slimību centrs,tuberkuloze un plauša slimība centrs,2
+450,ACM,vidējā smadzeņu artērija,vidējs smadzenes artērija,2
+451,HCV,C hepatīta vīruss,C hepatīts vīruss,2
+452,HCV,vīrusa hepatīts C,vīruss hepatīts C,2
+453,PHT,portālā hipertensija,portāls hipertensija,2
+454,CT,datortomogrāfija,datortomogrāfija,2
+455,HV,haunsfilda vienības,haunsfilds vienība,2
+456,AS,asinsspiediens,asinsspiediens,2
+457,DV,darbības vienības,darbība vienība,2
+458,EEG,elektroencefalogramma,elektroencefalogramma,2
+459,MG,mamogramma,mamogramma,2
+460,MG,mamogrāfija,mamogrāfija,2
+461,MG,mamogrāfisks,mamogrāfisks,2
+462,EGĀ,eritrocītu grimšanas ātrums,eritrocīti grimšana ātrums,2
+463,CC,kraniokaudāli,kraniokaudāls,2
+464,EhoKG,ehokardiogrāfija,ehokardiogrāfija,2
+465,MRI,magnētiskā rezonanse,magnētisks rezonanse,2
+466,amb.,ambulators,ambulators,3
+467,amb.,ambulatori,ambulatori,3
+468,anal.,analīzes,analīze,3
+469,ax.,aksiāli,aksiāls,3
+470,cor.,koronāri,koronārs,3
+471,d.,diena,diena,3
+472,deģ.,deģeneratīvs,deģeneratīvs,3
+473,diam.,diametrs,diametrs,3
+474,dif.dg.,diferenciāldiagnoze,diferenciāldiagnoze,3
+475,distrof.,distrofisks,distrofisks,3
+476,dob.,dobums,dobums,3
+477,dr.,ārsts,ārsts,3
+478,dr.,ārste,ārste,3
+479,dr.,dakteris,dakteris,3
+480,dr.,daktere,daktere,3
+481,gl.,glandula,glandula,3
+482,ieg.,iegurnis,iegurnis,3
+483,inj.,injekcija,injekcija,3
+484,inj.,injektors,injektors,3
+485,izm.,izmeklējums,izmeklējums,3
+486,i/m,intramuskulāri,intramuskulārs,3
+487,i/v,intravenozi,intravenozs,3
+488,konsult.,konsultācija,konsultācija,3
+489,kons.,konsultācija,konsultācija,3
+490,kr.,kreisā,kreiss,3
+491,k/v,kontrastviela,kontrastviela,3
+492,l/m,limfmezgls,limfmezgls,3
+493,maz.,mazais,mazs,3
+494,nr.,numurs,numurs,3
+495,nr.,numur,numur,3
+496,pak.,pakāpe,pakāpe,3
+497,patoloģ.,patoloģisks,patoloģisks,3
+498,prep.,preperāts,preperāts,3
+499,p/o,perorāli,perorāls,3
+500,rekonstr.,rekonstrukcija,rekonstrukcija,3
+501,rekonstr.,rekonstruktīvs,rekonstruktīvs,3
+502,rekonstruk.,rekonstrukcija,rekonstrukcija,3
+503,rekonstruk.,rekonstruktīvs,rekonstruktīvs,3
+504,rec.,recēšana,recēšana,3
+505,rez.,rezidents,rezidents,3
+506,sinistra,kreisais,kreiss,3
+507,sk.,skatīt,skatīt,3
+508,solutio,šķīdums,šķīdums,3
+509,st.,stāvoklis,stāvoklis,3
+510,susp.,suspensija,suspensija,3
+511,š.g.,šī gada,šis gads,3
+512,vak.,vakarā,vakars,3
+513,vēd.,vēders,vēders,3
